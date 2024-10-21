@@ -1,0 +1,49 @@
+17 56 38 78
+.note{
+    margin: 17px 56px 38px 78px;
+}
+.title{
+    font-size: 64px;
+    font-weight: 700;
+    width: 636px;
+    background-color: #311313;
+    margin: 30px auto;
+    text-align: center;
+    color: white;
+    padding: 24px 0;
+}
+body{
+   background: #2A5D5A;
+    
+}
+.usb{
+    border: 10px solid black;
+    text-align: center;
+    background-color: greenyellow;
+
+}
+.ota{
+    padding: 45px,52px;
+    width: 1000px;
+    margin: 0 auto;
+    box-sizing: border-box;
+    border: 10px solid rgb(255,6,6) ;
+    background: rgb(0,0,0);
+    width: Hug (896px)px;
+height: Hug (548px)px;
+top: 238px;
+left: 272px;
+gap: 30px;
+opacity: 0px;
+
+}
+.bola{
+    background: rgb(31,232,183);
+}
+  
+                
+
+
+    
+
+}
